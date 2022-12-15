@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ilP54Wp1sRkw+CnlE1e10/suzUxlPtc+Ed9YajydviFT9/wCd9/mSYhVuQsYDG4JzU2r61nR3dC/zkOrRBVXUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ggnoa\\OneDrive\\NIU\\CSCI 473\\CSCI473_A01-main\\Blizzard_Assign1\\Blizzard_Assign1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ggnoa\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
