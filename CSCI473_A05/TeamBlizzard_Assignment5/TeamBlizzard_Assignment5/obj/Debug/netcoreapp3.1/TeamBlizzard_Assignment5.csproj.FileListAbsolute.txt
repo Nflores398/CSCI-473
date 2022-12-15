@@ -1,0 +1,16 @@
+C:\Users\ggnoa\Source\Repos\CSCI473_A05\TeamBlizzard_Assignment5\TeamBlizzard_Assignment5\bin\Debug\netcoreapp3.1\TeamBlizzard_Assignment5.exe
+C:\Users\ggnoa\Source\Repos\CSCI473_A05\TeamBlizzard_Assignment5\TeamBlizzard_Assignment5\bin\Debug\netcoreapp3.1\TeamBlizzard_Assignment5.deps.json
+C:\Users\ggnoa\Source\Repos\CSCI473_A05\TeamBlizzard_Assignment5\TeamBlizzard_Assignment5\bin\Debug\netcoreapp3.1\TeamBlizzard_Assignment5.runtimeconfig.json
+C:\Users\ggnoa\Source\Repos\CSCI473_A05\TeamBlizzard_Assignment5\TeamBlizzard_Assignment5\bin\Debug\netcoreapp3.1\TeamBlizzard_Assignment5.runtimeconfig.dev.json
+C:\Users\ggnoa\Source\Repos\CSCI473_A05\TeamBlizzard_Assignment5\TeamBlizzard_Assignment5\bin\Debug\netcoreapp3.1\TeamBlizzard_Assignment5.dll
+C:\Users\ggnoa\Source\Repos\CSCI473_A05\TeamBlizzard_Assignment5\TeamBlizzard_Assignment5\bin\Debug\netcoreapp3.1\TeamBlizzard_Assignment5.pdb
+C:\Users\ggnoa\Source\Repos\CSCI473_A05\TeamBlizzard_Assignment5\TeamBlizzard_Assignment5\obj\Debug\netcoreapp3.1\TeamBlizzard_Assignment5.csprojAssemblyReference.cache
+C:\Users\ggnoa\Source\Repos\CSCI473_A05\TeamBlizzard_Assignment5\TeamBlizzard_Assignment5\obj\Debug\netcoreapp3.1\TeamBlizzard_Assignment5.Assign5.resources
+C:\Users\ggnoa\Source\Repos\CSCI473_A05\TeamBlizzard_Assignment5\TeamBlizzard_Assignment5\obj\Debug\netcoreapp3.1\TeamBlizzard_Assignment5.csproj.GenerateResource.cache
+C:\Users\ggnoa\Source\Repos\CSCI473_A05\TeamBlizzard_Assignment5\TeamBlizzard_Assignment5\obj\Debug\netcoreapp3.1\TeamBlizzard_Assignment5.AssemblyInfoInputs.cache
+C:\Users\ggnoa\Source\Repos\CSCI473_A05\TeamBlizzard_Assignment5\TeamBlizzard_Assignment5\obj\Debug\netcoreapp3.1\TeamBlizzard_Assignment5.AssemblyInfo.cs
+C:\Users\ggnoa\Source\Repos\CSCI473_A05\TeamBlizzard_Assignment5\TeamBlizzard_Assignment5\obj\Debug\netcoreapp3.1\TeamBlizzard_Assignment5.csproj.CoreCompileInputs.cache
+C:\Users\ggnoa\Source\Repos\CSCI473_A05\TeamBlizzard_Assignment5\TeamBlizzard_Assignment5\obj\Debug\netcoreapp3.1\TeamBlizzard_Assignment5.dll
+C:\Users\ggnoa\Source\Repos\CSCI473_A05\TeamBlizzard_Assignment5\TeamBlizzard_Assignment5\obj\Debug\netcoreapp3.1\TeamBlizzard_Assignment5.pdb
+C:\Users\ggnoa\Source\Repos\CSCI473_A05\TeamBlizzard_Assignment5\TeamBlizzard_Assignment5\obj\Debug\netcoreapp3.1\TeamBlizzard_Assignment5.genruntimeconfig.cache
+C:\Users\ggnoa\source\repos\CSCI473_A05\TeamBlizzard_Assignment5\TeamBlizzard_Assignment5\obj\Debug\netcoreapp3.1\TeamBlizzard_Assignment5.Properties.Resources.resources
