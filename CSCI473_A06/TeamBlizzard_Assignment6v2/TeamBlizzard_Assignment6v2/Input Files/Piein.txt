@@ -1,0 +1,10 @@
+﻿Blood Death Knight-5
+Protection Paladin-4
+Arcane Mage-13
+Fury Warrior-17
+Outlaw Rogue-14
+Fire Mage-14
+Feral Druid-15
+Marksmanship Hunter-16
+Restoration Druid-1
+Holy Priest-1

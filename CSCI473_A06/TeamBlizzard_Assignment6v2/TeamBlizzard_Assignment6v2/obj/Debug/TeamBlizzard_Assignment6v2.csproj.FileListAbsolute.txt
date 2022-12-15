@@ -1,0 +1,14 @@
+C:\Users\ggnoa\Source\Repos\-CSCI473_A06\TeamBlizzard_Assignment6v2\TeamBlizzard_Assignment6v2\bin\Debug\TeamBlizzard_Assignment6v2.exe.config
+C:\Users\ggnoa\Source\Repos\-CSCI473_A06\TeamBlizzard_Assignment6v2\TeamBlizzard_Assignment6v2\bin\Debug\TeamBlizzard_Assignment6v2.exe
+C:\Users\ggnoa\Source\Repos\-CSCI473_A06\TeamBlizzard_Assignment6v2\TeamBlizzard_Assignment6v2\bin\Debug\TeamBlizzard_Assignment6v2.pdb
+C:\Users\ggnoa\Source\Repos\-CSCI473_A06\TeamBlizzard_Assignment6v2\TeamBlizzard_Assignment6v2\obj\Debug\TeamBlizzard_Assignment6v2.csprojAssemblyReference.cache
+C:\Users\ggnoa\Source\Repos\-CSCI473_A06\TeamBlizzard_Assignment6v2\TeamBlizzard_Assignment6v2\obj\Debug\TeamBlizzard_Assignment6v2.BarGraph.resources
+C:\Users\ggnoa\Source\Repos\-CSCI473_A06\TeamBlizzard_Assignment6v2\TeamBlizzard_Assignment6v2\obj\Debug\TeamBlizzard_Assignment6v2.Form1.resources
+C:\Users\ggnoa\Source\Repos\-CSCI473_A06\TeamBlizzard_Assignment6v2\TeamBlizzard_Assignment6v2\obj\Debug\TeamBlizzard_Assignment6v2.Form2.resources
+C:\Users\ggnoa\Source\Repos\-CSCI473_A06\TeamBlizzard_Assignment6v2\TeamBlizzard_Assignment6v2\obj\Debug\TeamBlizzard_Assignment6v2.LineGraph.resources
+C:\Users\ggnoa\Source\Repos\-CSCI473_A06\TeamBlizzard_Assignment6v2\TeamBlizzard_Assignment6v2\obj\Debug\TeamBlizzard_Assignment6v2.Properties.Resources.resources
+C:\Users\ggnoa\Source\Repos\-CSCI473_A06\TeamBlizzard_Assignment6v2\TeamBlizzard_Assignment6v2\obj\Debug\TeamBlizzard_Assignment6v2.csproj.GenerateResource.cache
+C:\Users\ggnoa\Source\Repos\-CSCI473_A06\TeamBlizzard_Assignment6v2\TeamBlizzard_Assignment6v2\obj\Debug\TeamBlizzard_Assignment6v2.csproj.CoreCompileInputs.cache
+C:\Users\ggnoa\Source\Repos\-CSCI473_A06\TeamBlizzard_Assignment6v2\TeamBlizzard_Assignment6v2\obj\Debug\TeamBlizzard_Assignment6v2.exe
+C:\Users\ggnoa\Source\Repos\-CSCI473_A06\TeamBlizzard_Assignment6v2\TeamBlizzard_Assignment6v2\obj\Debug\TeamBlizzard_Assignment6v2.pdb
+C:\Users\ggnoa\source\repos\-CSCI473_A06\TeamBlizzard_Assignment6v2\TeamBlizzard_Assignment6v2\obj\Debug\TeamBlizzard_Assignment6v2.ScatterGraph.resources
