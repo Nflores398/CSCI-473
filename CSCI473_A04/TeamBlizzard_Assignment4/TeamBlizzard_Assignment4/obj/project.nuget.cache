@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m2OQwW60ZhBcQNBXpQSzahgHEJ84erzrxnHB0BiNqfB6biOwzCtVre/s4FPlgJCUqEmaZXBUTW55FOg+XdCqBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ggnoa\\OneDrive\\NIU\\CSCI 473\\CSCI473_A04\\TeamBlizzard_Assignment4\\TeamBlizzard_Assignment4\\TeamBlizzard_Assignment4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ggnoa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\mitpa\Source\Repos\Nflores398\CSCI473_A03\TeamBlizzard_Assignment3\TeamBlizzard_Assignment3\bin\Debug\netcoreapp3.1\TeamBlizzard_Assignment3.exe
+C:\Users\mitpa\Source\Repos\Nflores398\CSCI473_A03\TeamBlizzard_Assignment3\TeamBlizzard_Assignment3\bin\Debug\netcoreapp3.1\TeamBlizzard_Assignment3.deps.json
+C:\Users\mitpa\Source\Repos\Nflores398\CSCI473_A03\TeamBlizzard_Assignment3\TeamBlizzard_Assignment3\bin\Debug\netcoreapp3.1\TeamBlizzard_Assignment3.runtimeconfig.json
+C:\Users\mitpa\Source\Repos\Nflores398\CSCI473_A03\TeamBlizzard_Assignment3\TeamBlizzard_Assignment3\bin\Debug\netcoreapp3.1\TeamBlizzard_Assignment3.runtimeconfig.dev.json
+C:\Users\mitpa\Source\Repos\Nflores398\CSCI473_A03\TeamBlizzard_Assignment3\TeamBlizzard_Assignment3\bin\Debug\netcoreapp3.1\TeamBlizzard_Assignment3.dll
+C:\Users\mitpa\Source\Repos\Nflores398\CSCI473_A03\TeamBlizzard_Assignment3\TeamBlizzard_Assignment3\bin\Debug\netcoreapp3.1\TeamBlizzard_Assignment3.pdb
+C:\Users\mitpa\Source\Repos\Nflores398\CSCI473_A03\TeamBlizzard_Assignment3\TeamBlizzard_Assignment3\obj\Debug\netcoreapp3.1\TeamBlizzard_Assignment3.csprojAssemblyReference.cache
+C:\Users\mitpa\Source\Repos\Nflores398\CSCI473_A03\TeamBlizzard_Assignment3\TeamBlizzard_Assignment3\obj\Debug\netcoreapp3.1\TeamBlizzard_Assignment3.Form1.resources
+C:\Users\mitpa\Source\Repos\Nflores398\CSCI473_A03\TeamBlizzard_Assignment3\TeamBlizzard_Assignment3\obj\Debug\netcoreapp3.1\TeamBlizzard_Assignment3.csproj.GenerateResource.cache
+C:\Users\mitpa\Source\Repos\Nflores398\CSCI473_A03\TeamBlizzard_Assignment3\TeamBlizzard_Assignment3\obj\Debug\netcoreapp3.1\TeamBlizzard_Assignment3.AssemblyInfoInputs.cache
+C:\Users\mitpa\Source\Repos\Nflores398\CSCI473_A03\TeamBlizzard_Assignment3\TeamBlizzard_Assignment3\obj\Debug\netcoreapp3.1\TeamBlizzard_Assignment3.AssemblyInfo.cs
+C:\Users\mitpa\Source\Repos\Nflores398\CSCI473_A03\TeamBlizzard_Assignment3\TeamBlizzard_Assignment3\obj\Debug\netcoreapp3.1\TeamBlizzard_Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\mitpa\Source\Repos\Nflores398\CSCI473_A03\TeamBlizzard_Assignment3\TeamBlizzard_Assignment3\obj\Debug\netcoreapp3.1\TeamBlizzard_Assignment3.dll
+C:\Users\mitpa\Source\Repos\Nflores398\CSCI473_A03\TeamBlizzard_Assignment3\TeamBlizzard_Assignment3\obj\Debug\netcoreapp3.1\TeamBlizzard_Assignment3.pdb
+C:\Users\mitpa\Source\Repos\Nflores398\CSCI473_A03\TeamBlizzard_Assignment3\TeamBlizzard_Assignment3\obj\Debug\netcoreapp3.1\TeamBlizzard_Assignment3.genruntimeconfig.cache
